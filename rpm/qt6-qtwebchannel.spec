@@ -1,8 +1,8 @@
-%global qt_version 6.8.3
+%global qt_version 6.8.4
 
 Summary: Qt6 - WebChannel component
 Name:    qt6-qtwebchannel
-Version: 6.8.3
+Version: 6.8.4
 Release: 2%{?dist}
 
 License: LGPL-3.0-only OR GPL-3.0-only WITH Qt-GPL-exception-1.0
